@@ -5,7 +5,7 @@
  * @Description  Java基础
  * @CreateTime  2024/4/25 02:14
  */
-public class day1 {
+public class Java_Basics {
     public static void main(String[] args) {
         //\t :一个制表位，实现对齐的功能
         System.out.println("北京\t天津\t上海");
