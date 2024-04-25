@@ -1,10 +1,11 @@
-# Java学习仓库
+# Java学习
 
-这是一个个人学习Java的仓库，包括Java基础、Java Web、Java框架等方面的学习资源。
+这是一个个人学习Java的日常学习代码，包括Java基础、Java Web、Java框架等方面的学习笔记代码。
 
 ## 文件介绍
 
+- Java_Basics.java：Java基础
 - AutoConvert.java：自动转换
 - AutoConvertDetail.java：自动转换细节
 - ForceConvert.java：强制转换
-- Java_Basics.java：Java基础
+- ForceConvertDetail.java：强制转换细节
