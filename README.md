@@ -9,3 +9,5 @@
 - AutoConvertDetail.java：自动转换细节
 - ForceConvert.java：强制转换
 - ForceConvertDetail.java：强制转换细节
+- StringToBasic.java：字符串转换为基本数据类型
+- StringToBasicDetail.java：字符串转换为基本数据类型细节
