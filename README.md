@@ -13,3 +13,4 @@
 - StringToBasicDetail.java：字符串转换为基本数据类型细节
 - ArithmeticOperator.java：演示算术运算符的作用
 - RelationalOperator.java：演示关系运算符的作用
+- LogicOperator.java：演示逻辑运算符的作用
